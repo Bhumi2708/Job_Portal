@@ -1,5 +1,4 @@
 # Job_Portal
-# Job Portal
 
 A web-based Job Portal developed using Django that connects job seekers and employers on a single platform. The application allows employers to post job vacancies and candidates to search and apply for jobs efficiently.
 
